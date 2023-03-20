@@ -199,3 +199,7 @@ main img {
     position: relative;
     /* this allows for the text div position to be absolute */
 } 
+.resize_image img {
+    height: 200px;
+    width: 100%;
+}
